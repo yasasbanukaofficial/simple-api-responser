@@ -15,7 +15,7 @@ function error(message = "Request failed", status = 400) {
   };
 }
 
-module.export = {
+module.exports = {
   success,
   error
 }
