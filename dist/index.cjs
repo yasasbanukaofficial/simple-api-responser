@@ -14,3 +14,8 @@ function error(message = "Request failed", status = 400) {
     message,
   };
 }
+
+module.export = {
+  success,
+  error
+}

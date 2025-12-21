@@ -2,7 +2,12 @@
   "name": "simple-api-response",
   "version": "1.0.0",
   "description": "A tiny utility to standardize API responses for Express and REST APIs.",
-  "main": "index.js",
+  "exports": {
+    "require": "./dist/index.cjs",
+    "import": "./dist/index.mjs"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
