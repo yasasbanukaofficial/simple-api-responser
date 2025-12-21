@@ -1,5 +1,5 @@
 {
-  "name": "simple-api-response",
+  "name": "simple-api-responser",
   "version": "1.0.0",
   "description": "A tiny utility to standardize API responses for Express and REST APIs.",
   "exports": {
