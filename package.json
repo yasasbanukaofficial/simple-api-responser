@@ -1,6 +1,6 @@
 {
   "name": "simple-api-responser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny utility to standardize API responses for Express and REST APIs.",
   "exports": {
     "require": "./dist/index.cjs",
