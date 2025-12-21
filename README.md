@@ -1,4 +1,4 @@
-## Simple API Response
+## Simple API Responser
 
 A tiny utility to standardize API responses for Express and REST APIs.
 
@@ -28,7 +28,7 @@ npm install simple-api-response
 ### Common JS (Node.js / Express)
 
 ```Javascript
-const { success, error } = require("simple-api-response");
+const { success, error } = require("simple-api-responser");
 
 // Example 1: Basic success response
 app.get("/users", (req, res) => {
@@ -58,7 +58,7 @@ app.get("/users/:id", (req, res) => {
 ### ES Modules (Modern JavaScript / Frontend + Node)
 
 ```Javascript
-const { success, error } = require("simple-api-response");
+const { success, error } = require("simple-api-responser");
 
 // Example 1: Basic success response
 app.get("/users", (req, res) => {

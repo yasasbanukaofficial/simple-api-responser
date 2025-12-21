@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yasasbanukaofficial/simple-api-response.git"
+    "url": "git+https://github.com/yasasbanukaofficial/simple-api-responser.git"
   },
   "keywords": [
     "api",
@@ -34,7 +34,7 @@
   "author": "Yasas Banu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yasasbanukaofficial/simple-api-response/issues"
+    "url": "https://github.com/yasasbanukaofficial/simple-api-responser/issues"
   },
-  "homepage": "https://github.com/yasasbanukaofficial/simple-api-response#readme"
+  "homepage": "https://github.com/yasasbanukaofficial/simple-api-responser#readme"
 }
